@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form";
-import { CreditCard } from "lucide-react";
+
 import { userValidationSchema } from "@/lib/validators";
 import { useStore } from "@/lib/store";
 import { MOCK_USERS } from "@/lib/constants";

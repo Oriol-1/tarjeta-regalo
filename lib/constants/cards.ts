@@ -13,7 +13,7 @@ export const AVAILABLE_CARDS: GiftCard[] = [
     name: 'Airbnb Gift Card',
     brand: 'Airbnb',
     logo: 'https://eurob2b.amilon.eu/b2bfiles/products/c7aed81b-8320-4b78-ad69-35ca504551ff/logo/4d2fb3ccee07436991d46a045895ed57.png',
-    availableValues: [10, 20, 50]
+    availableValues: [10, 20, 50,80]
   },
   {
     id: 'apple',
